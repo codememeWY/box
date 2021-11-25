@@ -34,7 +34,18 @@
 
 行式超链接：我们可以将所有工程项目打包上传到[GITHUB](https://www.github.com "GITHUB website")进行托管，开发者可以下载[GIT](https://git-scm.com/downloads "GIT app")软件进行项目管理和版本控制
 
-我们可以将所有工程项目打包上传到[GITHUB][1]进行托管，开发者可以下载[GIT][2]软件进行项目管理和版本控制
+我们可以将所有工程项目打包上传到[GITHUB][1]进行托管，开发者可以下载[GIT][2]软件进行项目管理和版本控制<\br>
 
 [1]:https://www.github.com "GITHUB website"
 [2]:https://git-scm.com/downloads "GIT app"
+
+关联式超链接
+
+[百度][1]和[谷歌][2]是世界范围内知名的搜索引擎巨头
+
+[1]:https://www.baidu.com
+[2]:https://www.google.com
+
+配图
+
+本地图片插入 ![test image](C:/Users\58463/Desktop/yolov3_spp/鸟.jpg "title")
