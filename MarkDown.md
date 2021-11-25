@@ -43,8 +43,8 @@
 
 [百度][1]和[谷歌][2]是世界范围内知名的搜索引擎巨头
 
-[1]:https://www.baidu.com
-[2]:https://www.google.com
+[3]:https://www.baidu.com "百度"
+[4]:https://www.google.com "谷歌"
 
 配图
 
