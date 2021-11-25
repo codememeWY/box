@@ -49,3 +49,8 @@
 配图
 
 本地图片插入 ![test image](C:/Users\58463/Desktop/yolov3_spp/鸟.jpg "title")
+
+https://sm.ms/  图片转换
+
+插入
+![鸟.jpg](https://i.loli.net/2021/11/25/rHAGOPXo5m6CZhT.jpg)
