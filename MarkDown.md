@@ -54,3 +54,31 @@ https://sm.ms/  图片转换
 
 插入
 ![鸟.jpg](https://i.loli.net/2021/11/25/rHAGOPXo5m6CZhT.jpg)
+
+插入代码段
+
+```c
+#include<stdio.h>
+
+```
+```cpp
+#include<iostream>
+
+```
+```bash
+sudo apt-get install git
+
+```
+
+```python
+
+import os 
+def main():
+file_list=os.listdir()
+return file_list	
+
+```
+```java
+   etc
+
+```
